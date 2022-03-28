@@ -1,0 +1,21 @@
+.form{
+    margin: 60px 40%;
+    display: flex;
+    flex: wrap;
+    gap: 30px;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-detail{
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+p{
+    margin-top: 10px;
+}
